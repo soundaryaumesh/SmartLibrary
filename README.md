@@ -1,9 +1,9 @@
 # Smart Library Management System
 
 ## Team Members
-- Member 1: Name
-- Member 2: Name
-- Member 3: Name (if applicable)
+- Member 1: Soundarya.U
+- Member 2: Sneha.S.S
+- Member 3: Spoorthi.K.S
 
 ## Problem Statement
 A mini library management system to manage books, students, and issued books using the C programming language.  
